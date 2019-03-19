@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.42"
+  },
+  "scripts": {
+    "dev:docs": "vuepress dev docs",
+    "build:docs": "vuepress build docs"
+  }
+}
