@@ -12,9 +12,13 @@ To jumpstart folks we provide an [Algolia](https://algolia.com) compatible searc
 
 This allows you to implement your search using a wide variety of [open source tools](https://github.com/algolia) depending on your needs.
 
+## Your Options
+
+There are several options you can choose from - balancing ease of implementation against customizability.
+
 ### Easy to implement and customize
 
-InstantSearch Widgets are production-ready, type-as-you-search, front-end clients with the heavy lifting taken care of for you - and you can wade into deeper customization as you desire.
+*InstantSearch Widgets* are production-ready, type-as-you-search, front-end clients with the heavy lifting taken care of for you - and you can wade into deeper customization as you desire.
 
 Check out a [showcase of available widgets](https://www.algolia.com/doc/guides/building-search-ui/widgets/showcase/js/) and imagine them filled with volunteering opportunities!
 
@@ -28,7 +32,7 @@ Check out a [showcase of available widgets](https://www.algolia.com/doc/guides/b
 
 ### Easier to implement but not very customizable
 
-Extensions are minimal effort, drop-in solutions for your existing site - but the search experience is not very customizable.
+*Extensions* are minimal effort, drop-in solutions for your existing site - but the search experience is not very customizable.
 
 [Wordpress](https://www.algolia.com/doc/integration/wordpress/getting-started/quick-start/)
 | [Drupal](https://www.drupal.org/project/search_api_algolia)
@@ -37,7 +41,7 @@ Extensions are minimal effort, drop-in solutions for your existing site - but th
 
 ### Harder to implement but very customizable
 
-API Clients require technical expertise but are very customizable for advanced needs.
+*API Clients* require technical expertise - but are very customizable for advanced needs.
 
 [JavaScript](https://www.algolia.com/doc/api-client/getting-started/install/javascript/)
 | [PHP](https://www.algolia.com/doc/api-client/getting-started/install/php/)
@@ -92,4 +96,6 @@ search.addWidget(
 search.start();
 ```
 
-:confetti_ball: Congrats! You're now searching the world's largest index of volunteering opportunities!
+:confetti_ball: *Congrats!*
+
+You're now searching the world's largest index of volunteering opportunities!
